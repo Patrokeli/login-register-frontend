@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
+##Screenshor
+<p>
+<img src="https://github.com/Patrokeli/login-register-frontend/blob/3c5be338040be0d2056380f4ceae4c2d1bce1f48/social.png" alt="screenshot"/>
+</p>
+
 ## Getting Started
 
 First, run the development server:
